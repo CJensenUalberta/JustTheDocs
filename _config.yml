@@ -1,4 +1,4 @@
-title: Just the Docs Template
+title: Charles' Documentation
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
@@ -6,9 +6,9 @@ plugins:
   - jekyll-default-layout
 
 
-url: https://just-the-docs.github.io
+url: https://github.com/CJensenUalberta
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  My Repositories: https://github.com/CJensenUalberta
   
 
